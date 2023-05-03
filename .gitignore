@@ -1,0 +1,27 @@
+docker-compose.override.yml
+.env
+.DS_Store
+
+#Terraform
+.idea
+*.pem
+*.war
+*.swp
+*.gz
+*~*
+*.backup
+.tfstate
+.terraform
+*.iml
+*.env
+util/
+tmp/
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
